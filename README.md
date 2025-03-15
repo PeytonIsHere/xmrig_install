@@ -10,7 +10,7 @@ This repository contains a script to easily set up XMRig for mining Monero crypt
 
 1. Download the installation script:
    ```bash
-   curl https://github.com/PeytonIsHere/xmrig_install/blob/main/install_xmrig.sh
+   wget https://github.com/PeytonIsHere/xmrig_install/blob/main/install_xmrig.sh
    ```
 
 2. Make it executable:
